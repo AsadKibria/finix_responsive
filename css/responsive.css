@@ -1,0 +1,278 @@
+@media (max-width: 1325px) {
+    .navbar-nav.ml-auto.our-primary-Menu li a {
+        padding: 10px 9px;
+    }
+}
+@media (max-width: 1277px) {
+    .sliderContent h1 {
+        font-size: 56px;
+    }
+}
+@media (max-width: 1200px) {
+    .headerBtn .btnMenu {
+        padding: 10px 21px;
+
+    }
+
+}
+@media (max-width: 1199px) {
+    .cleintLogo-section img {
+        max-width: 90%;
+    }
+    .aboutSection .finixText h1 {
+        font-size: 35px;
+    }
+    .aboutSection .textIteamBg {
+        bottom: -76px;
+
+    }
+    .bgCallSection h1 {
+        font-size: 30px;
+    }
+    .callsection .callNumber .number a {
+        font-size: 25px;
+    }
+    .callsection .callNumber span {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+    }
+}
+@media (max-width: 1129px) {
+    .navbar-nav.ml-auto.our-primary-Menu li a {
+        font-size: 14px;
+    }
+    .headerRight .headerSearch span {
+        font-size: 17px;
+        padding-right: 9px;
+        margin-right: 9px;
+    }
+    .headerRight .callSection .callIcon span {
+        font-size: 30px;
+    }
+    .headerRight .callSection {
+        width: 178px;
+    }
+    .headerRight .callSection .callInfo span {
+        font-size: 15px;
+    }
+    .headerRight .callSection .callInfo a {
+        font-size: 14px;
+    }
+    .headerBtn .btnMenu {
+        padding: 5px 11px;
+        font-size: 13px;
+    }
+}
+@media (max-width: 1076px) {
+    .sliderContent h1 {
+        font-size: 48px;
+    }
+}
+@media (max-width: 992px) {
+    .mainHeader {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .navbar-nav.ml-auto.our-primary-Menu li ul {
+        left: 81px;
+
+    }
+    .aboutSection .finixText h1 {
+        font-size: 35px;
+    }
+    .aboutSection .textIteamBg {
+        bottom: -133px;
+    }
+    .whyChooseUs .contentRight span {
+        font-size: 55px;
+        margin-bottom: 8px;
+    }
+    .whyChooseUs .contentRight span {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .whyChooseUs .contentRight .iteam h4 {
+        font-size: 20px;
+    }
+    .whyChooseUs .contentRight .iteam p {
+        font-size: 13px;
+    
+    }
+    .loanContentLeft {
+        margin-bottom: 40px;
+    }
+    .bgCallSection h1 {
+        border-right:none;
+    }
+    .bgCallSection {
+        text-align: center;
+    }
+    .callsection .callNumber {
+        padding-left: 0;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .testimonialContent {
+        text-align: center;
+        margin-bottom: 56px;
+    }
+    .testimonialContent p {
+        font-size: 18px;
+    }
+    .testimonoalImg {
+        text-align: center;
+    }
+    .teamSection .teamMember {
+        margin-bottom: 30px;
+    }
+    .blogSection .blogContent {
+        margin-bottom: 60px;
+    }
+    .formSection .testimonialTitle h1 {
+        font-size: 25px;
+    }
+
+
+}
+@media (max-width: 868px) {
+    .sliderContent h1 {
+        font-size: 34px;
+    }
+}
+@media (max-width: 768px) {
+    .aboutSection .aboutImage {
+        margin-bottom: 103px;
+    
+    }
+    .about-text {
+        margin-top: 34px;
+    }
+    .aboutSection .finixText h1 {
+        font-size: 26px;
+    }
+    .whyChooseUs .contentRight {
+        margin-top: 42px;
+    }
+    .whyChooseUs .contentRight .iteam h4 {
+        font-size: 25px;
+    }
+    .whyChooseUs .contentRight .iteam p {
+        font-size: 16px;
+    }
+    .whyChooseUs .contentRight .iteam::before {
+        height: 91%;
+
+    }
+    .bgCallSection {
+        padding: 45px 31px;
+    }
+    .businessLoan .finixText h1 {
+        font-size: 37px;
+    }
+    .bgCallSection h1 {
+        font-size: 26px;
+    }
+    .callsection .callNumber .number a {
+        font-size: 20px;
+    }
+    .callsection .callNumber span {
+        font-size: 39px;
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+    }
+    .ourServices .servicesTitle h1 {
+        font-size: 25px;
+    }
+    .ourServices .servicesTitle p {
+        font-size: 15px;
+    }
+    .ourServices .servicesTitle p {
+        width: auto;
+        margin: auto;
+    }
+    .offset-md-3 {
+        margin-left: 25%;
+    }
+
+}
+@media (max-width: 767px) {
+    .testimonialTitle h1 {
+        font-size: 20px;
+    }
+    .testimonialTitle p {
+        font-size: 16px;
+    }
+    .blogSection .blogContent .blogImage img {
+        width: 100%;
+    }
+    .offset-md-3 {
+        margin-left: 0;
+    }
+    .blogSection .blogContent .blogtext h3 a {
+        font-size: 20px;
+    }
+    .contactFinix {
+        margin-top: 45px;
+    }
+
+}
+@media (max-width: 624px) {
+    .sliderContent h1 {
+        font-size: 25px;
+    }
+}
+@media (max-width: 576px) {
+    .aboutSection {
+        padding: 100px 17px;
+    }
+    .aboutSection .textIteamBg {
+        right: 51px;
+        bottom: -96px;
+        width: 173px;
+        height: 173px;
+
+    }
+    .aboutSection .textIteam p {
+        font-size: 15px;
+    }
+    .finixText h1 {
+        font-size: 34px;
+    }
+    .loanContentLeft h1 {
+        font-size: 30px;
+
+    }
+    .teamSection .teamMemberImg img{
+        width: 100%;
+    }
+}
+@media (max-width: 420px) {
+    .aboutSection .textIteamBg {
+        right: 1px;
+        bottom: -112px;
+    }
+    .aboutSection .finixText p {
+        color: #777;
+        font-size: 15px;
+    }
+    .aboutSection .finixText ul li {
+        font-size: 16px;
+    }
+    .aboutSection .finixText ul li::before {
+        font-size: 21px;
+        padding-right: 15px;
+    
+    }
+    .btn-primary {
+        width: 100%;
+    }
+    .loanContentLeft h1 {
+        font-size: 24px;
+    }
+    .breadcrumbSection {
+        padding: 78px 0;
+    }
+}
